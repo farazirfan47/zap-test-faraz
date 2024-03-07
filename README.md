@@ -1,3 +1,6 @@
+# Live Demo
+[Live Demo](https://zap-test-faraz.vercel.app/)
+
 ![App Screenshot](https://i.ibb.co/4RyQNqS/Screenshot-2024-03-07-T172557-869.png)
 
 ## Requirements
